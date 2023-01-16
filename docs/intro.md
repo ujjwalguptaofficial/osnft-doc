@@ -18,9 +18,20 @@ It has following components -
 
 Most of the organisation from small to enterprise today uses opensource project. But almost 99 % creators are unpaid and its very hard to keep doing without any monetory help.
 
+<img src="/img/no_money.jpeg" width="600"  />
+<br/>
+<br/>
+
 Also opensource projects needs contributors but contributors also are not rewarded because creator does not have anything to give.
 
+<img src="/img/contribute_to_opensource.jpeg" width="600"  />
+<br/>
+<br/>
+<br/>
+
+<blockquote>
 Every opensource project is like a small startup but it is runing without any income. It needs continuous income.
+</blockquote>
 
 
 ## Solution
