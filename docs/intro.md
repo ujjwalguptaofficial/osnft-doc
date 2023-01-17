@@ -36,7 +36,9 @@ Every opensource project is like a small startup but it is runing without any in
 
 ## Solution
 
-OSNFT is trying to solve this problem by converting the opensource project into a NFT. The NFT can be used to earn and even reward to your contributors or your supporter.
+OSNFT is trying to solve this problem by converting the opensource project into a NFT without comprising on the opensource. The NFT can be used to earn and even reward to your contributors or your supporter.
+
+
 
 More details in [NFTOMICS section](NFTOMICS)
 

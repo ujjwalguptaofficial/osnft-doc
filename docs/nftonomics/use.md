@@ -72,6 +72,18 @@ Buyer buys the NFT acting as investor or supporter of the project. Here buyer pr
 
 👉 As the project keeps growing - the value of NFT keeps increasing thus the price which means good return 😊 for the investors.
 
+The growth of the project can be considered from different attributes like - 
+
+* star count
+* fork count
+* no of issues opened/closed
+* community growth
+* usage of project
+* no of commits - how creators is determined
+* features being added in the project
+
+The growth is not limited to above mentioned attributes but there can be more.
+
 ### What should you do as investor ?
 
 As an investor your primary goal is to earn which will be possible only if the project you invested grow.
