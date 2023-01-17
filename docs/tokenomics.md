@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Tokenomics
 
-The whole OSNFT DAO ecosystem is powered by OSD coin. It is a utility token which is used at different places for providing different services.
+The whole OSNFT DAO ecosystem is powered by **OSD coin**. It is a utility token which is used at different places for providing different services.
 
 The total supply of OSD coin is - 1 Billion.
 

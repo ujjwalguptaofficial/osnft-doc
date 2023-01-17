@@ -40,5 +40,5 @@ OSNFT is trying to solve this problem by converting the opensource project into 
 
 
 
-More details in [NFTOMICS section](NFTOMICS)
+More details in [NFTOMICS section](nftomics/work)
 
