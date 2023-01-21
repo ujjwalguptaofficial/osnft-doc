@@ -86,15 +86,21 @@ The growth is not limited to above mentioned attributes but there can be more.
 
 ### What should you do as investor ?
 
-As an investor your primary goal is to earn which will be possible only if the project you invested grow.
+As an investor your primary goal is to **earn** which will be possible only if the project you invested grow.
 
-We recommend following things - 
 
-1. Before buying - Learn about the project, understand the problem it is solving and if you are convinced then invest in it. If you believe in the project then invest without further thinking. 
+
+<img src="/img/investment-meme-quote.jpeg" width="600"  />
+
+
+<br/><br/>
+👉 We recommend following things - 
+
+1. Invest in right project - Learn about the project, understand the problem it is solving and if you are convinced then invest in it. If you believe in the project then invest without further thinking. 
 2. Once you have bought the NFT then make people aware about it, increase the stars and fork of the project. Ask creators how you can help them. Maintain a communication with creators on different social network. Always be supportive.
 3. Once the project grows then feel free to sell it and invest in other projects using that money. Always keep investing. Think it like a stock market.
 4. If you are coder then be a contributor of the project and then you can help growing the project in faster. Remember even helping with documentation is a great help.
-5. Check if a project is qualified to jump to another NFT level and then talk to the creators and figure some kind of deal to take ownership in another NFT level. Remember owning partial ownership of 100 million value project is greater than owning full ownership of a 1 milliion company.
+5. Check if a project is qualified to jump to another NFT level and then talk to the creators and figure some kind of deal to take ownership in another NFT level. Remember owning partial ownership of 100 million value project is greater than owning full ownership of a 1 milliion valued company.
 
 
 

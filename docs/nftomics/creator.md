@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Creator
 
-Creator is the person who has taken the initiate to solve the problem and start the open source project.
+Creator is the person who has taken the initiative to solve the problem and start the open source project.
 
 A lot of hardwork is done by creator including but not limited to defined in [work](work) section.
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Tokenomics
 
-The whole OSNFT DAO ecosystem is powered by **OSD coin**. It is a utility token which is used at different places for providing different services.
+The whole OSNFT DAPP ecosystem is powered by **OSD coin**. It is a utility token which is used at different places for providing different services.
 
 The total supply of OSD coin is - 1 Billion.
 
@@ -18,7 +18,6 @@ OSD coin is used for following services -
 * Cancel sell
 * Referral reward - limited time 
 * Quiz game
-* Approvers reward
 
 
 The usage are not limited to these services only. With time more features will be added in ecosytem and thus more usage.
@@ -65,21 +64,13 @@ Cancelling sell is very common and it creates kind of bad environment in the who
 
 ### Referral reward
 
-A referral reward is given to users whose referral project is successfully minted within expiry time. The reward is 1 OSD and it will be runing for limited time.
+A referral reward is given to users whose referral project is successfully minted within expiry time. The reward is 1 OSD (might change) and it will be runing for limited time.
 
 
 ### Quiz game
 
+> Quiz game is supposed to increase awareness about the project and reward to users.
+
 In order to interact with users - the creators can run quiz games and reward them with OSD. There can be many quiz games but currently in ROADMAP is - 
 
 1. Asking questions and right answerer will ge the reward. This help creators increase the awareness of the project.
-
-### Approver
-
-Approver act as core of the ecosytem. Currently task of approver is to verify the project but with more features - the task will be more.
-
-The process of approver is currently centralized but with time it will be made decentralized making the `OSNFT` completely DAO.
-
-The approvers mechanism will be something like Proof of stake and will be rewarded for each task.
-
-

@@ -5,7 +5,7 @@ slug: /
 
 # Overview
 
-OSNFT stands for opensource NFT. It's a complete DAO suite which allows to tokenize opensource projects into a NFT.
+OSNFT stands for **opensource NFT**. It's a complete Decentralized application suite which allows to tokenize opensource projects into a NFT.
 
 It has following components - 
 
@@ -38,7 +38,7 @@ Every opensource project is like a small startup but it is runing without any in
 
 OSNFT is trying to solve this problem by converting the opensource project into a NFT without comprising on the opensource. The NFT can be used to earn and even reward to your contributors or your supporter.
 
-
+👉 We want to motivate existing opensource creators and encourage others to opensource.
 
 More details in [NFTOMICS section](nftomics/work)
 
