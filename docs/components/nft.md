@@ -12,6 +12,7 @@ The NFT contract stores only the information which are needed for identifying th
 * NFT ownership 
 * Share of NFT
 * Percentage cut
+* creator of NFT
 
 
 The meta data is stored in database and repo providers like github is considered as source of truth. Thus actuall meta data stay with your project repo providers.

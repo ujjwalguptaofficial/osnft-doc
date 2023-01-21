@@ -58,25 +58,25 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'OSNFT',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'OSNFT Logo',
+          src: 'img/osnft_black.png',
         },
-        items: [
-          {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          { to: '/blog', label: 'Blog', position: 'left' },
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
+        // items: [
+        //   {
+        //     type: 'doc',
+        //     docId: 'intro',
+        //     position: 'left',
+        //     label: 'Tutorial',
+        //   },
+        //   { to: '/blog', label: 'Blog', position: 'left' },
+        //   {
+        //     href: 'https://github.com/facebook/docusaurus',
+        //     label: 'GitHub',
+        //     position: 'right',
+        //   },
+        // ],
       },
       footer: {
         style: 'dark',
