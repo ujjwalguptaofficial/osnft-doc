@@ -22,7 +22,7 @@ Most of the organisation from small to enterprise today uses opensource project.
 <br/>
 <br/>
 
-Also opensource projects needs contributors but contributors also are not rewarded because creator does not have anything to give.
+👉 Also opensource projects needs contributors but contributors also are not rewarded because creator does not have anything to give.
 
 <img src="/img/contribute_to_opensource.jpeg" width="600"  />
 <br/>
