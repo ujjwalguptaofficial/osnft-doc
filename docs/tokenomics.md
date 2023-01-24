@@ -18,7 +18,6 @@ OSD coin is used for following services -
 * Cancel sell
 * Referral reward - limited time 
 * Quiz game
-* Approver reward
 
 
 The usage are not limited to these services only. With time more features will be added in ecosytem and thus more usage.
@@ -75,9 +74,3 @@ A referral reward is given to users whose referral project is successfully minte
 In order to interact with users - the creators can run quiz games and reward them with OSD. There can be many quiz games but currently in ROADMAP is - 
 
 1. Asking questions and right answerer will ge the reward. This help creators increase the awareness of the project.
-
-### Approver reward
-
-Approver are users who have access to approve a project for minting. Read more about approver here [Approver Doc](/components/approver).
-
-Approvers will be rewarded for verifying the project for minting and different action. 

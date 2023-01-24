@@ -16,7 +16,7 @@ Opensource project creator tokenize their project into a NFT. It can be used to 
 
 ### NFT type
 
-There are multiple types of NFT provided by OSNFT for creators which act as different levels. It is to make sure that different kinda of projects have different kinda of earning and supporters/buyers.
+There are multiple types of NFT provided by OSNFT for creators which act as different levels. It is to make sure that different kind of projects have different kind of earning and supporters/buyers.
 
 There are four types of NFT -
 
@@ -79,7 +79,7 @@ The growth of the project can be considered from different attributes like -
 * no of issues opened/closed
 * community growth
 * usage of project
-* no of commits - how creators is determined
+* no of commits - how creators are determined to work on the project.
 * features being added in the project
 
 The growth is not limited to above mentioned attributes but there can be more.

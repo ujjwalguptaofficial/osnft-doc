@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Work
 
-OSNFT represents the open source projects which is hard work done by developers/coders. 
+OSNFT represents the open source projects which is hard work (in the form of code or any other) done by developers/coders. 
 
-Unlike other arts opensource projects needs to be continuously developed which includes work like 
+Unlike other arts **Opensource projects** needs to be continuously developed which includes work like 
 
 * Product ideation and thoughts
 * Documentation
