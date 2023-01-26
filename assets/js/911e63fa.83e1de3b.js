@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[2180],{9069:e=>{e.exports=JSON.parse('{"title":"Components","description":"OSNFT Components","slug":"/category/components","permalink":"/category/components","navigation":{"previous":{"title":"Tokenomics","permalink":"/tokenomics"},"next":{"title":"NFT","permalink":"/components/nft"}}}')}}]);
