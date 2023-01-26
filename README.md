@@ -1,2 +1,2 @@
-# osnft-whitepaper
-white paper for osnft
+# osnft-doc
+documentation site for osnft
