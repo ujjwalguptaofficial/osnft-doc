@@ -7,7 +7,7 @@ slug: /
 
 OSNFT stands for **opensource NFT**. It's a complete Decentralized application suite which allows to tokenize opensource projects into a NFT.
 
-<img src="/img/meta_1200_730.png" width="600"  />
+<img src="/img/github_to_osnft.png" width="600"  />
 
 ## Problem
 
