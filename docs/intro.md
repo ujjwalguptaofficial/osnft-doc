@@ -7,13 +7,6 @@ slug: /
 
 OSNFT stands for **opensource NFT**. It's a complete Decentralized application suite which allows to tokenize opensource projects into a NFT.
 
-It has following components - 
-
-1. NFT
-2. Marketplace
-3. Approver
-4. Dapp
-
 ## Problem
 
 Most of the organisation from small to enterprise today uses opensource project. But almost 99 % creators are unpaid and its very hard to keep doing without any monetory help.
