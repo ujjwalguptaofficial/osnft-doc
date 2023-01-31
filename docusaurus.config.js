@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'OSNFT', // Usually your GitHub org/user name.
+  projectName: 'OSNFT', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -63,20 +63,20 @@ const config = {
           alt: 'OSNFT Logo',
           src: 'img/osnft_black.png',
         },
-        // items: [
-        //   {
-        //     type: 'doc',
-        //     docId: 'intro',
-        //     position: 'left',
-        //     label: 'Tutorial',
-        //   },
-        //   { to: '/blog', label: 'Blog', position: 'left' },
-        //   {
-        //     href: 'https://github.com/facebook/docusaurus',
-        //     label: 'GitHub',
-        //     position: 'right',
-        //   },
-        // ],
+        items: [
+          // {
+          //   type: 'doc',
+          //   docId: 'intro',
+          //   position: 'left',
+          //   label: 'Tutorial',
+          // },
+          { to: 'https://osnft.app/', label: 'Visit app', position: 'left' },
+          {
+            href: 'https://github.com/osnftofficial',
+            label: 'GitHub',
+            position: 'right',
+          },
+        ],
       },
       // footer:  {
       //   style: 'dark',
@@ -127,6 +127,38 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      metadata: [
+        {
+          'data-hid': 'og:type',
+          name: "og:type",
+          property: "og:type",
+          content: "website"
+        },
+        {
+          property: "og:image",
+          content: "/img/osnft_poster_500_500.jpg"
+        },
+        {
+          property: "og:image",
+          content: "/img/osnft_poster_1200_730.jpg"
+        },
+        {
+          name: "twitter:creator",
+          content: "@ujjwal_kr_gupta"
+        },
+        {
+          name: "twitter:card",
+          content: "summary_large_image"
+        },
+        {
+          property: "twitter:image",
+          content: "/img/osnft_poster_500_500.jpg"
+        },
+        {
+          property: "twitter:image:src",
+          content: "/img/osnft_poster_1200_730.jpg"
+        }
+      ]
     }),
 };
 
