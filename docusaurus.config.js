@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'OSNFT - NFT for Opensource project',
+  title: 'OSNFT Docs - NFT for Opensource project',
   tagline: 'Monetize your opensource projects using NFT',
   url: 'https://osnft.app',
   baseUrl: '/',
