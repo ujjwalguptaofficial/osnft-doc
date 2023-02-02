@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://osnft.app/blog</id>
-    <title>OSNFT - NFT for Opensource project Blog</title>
+    <title>OSNFT Docs - NFT for Opensource project Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://osnft.app/blog"/>
-    <subtitle>OSNFT - NFT for Opensource project Blog</subtitle>
+    <subtitle>OSNFT Docs - NFT for Opensource project Blog</subtitle>
     <icon>https://osnft.app/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
