@@ -24,7 +24,7 @@ The usage are not limited to these services only. With time more features will b
 
 ### Mint NFT
 
-OSD coin is needed to mint the NFT. The value of OSD coin is calculated based on star and fork count of the project called as `worthOfProject`. The `worthOfProject` can not be greater than 1.
+OSD coin is required to mint the NFT. The amount of OSD coin to be used is calculated based on star and fork count of the project called as `worthOfProject`. The `worthOfProject` can not be greater than 1.
 
 ```
 function worthOfProject(uint256 starCount,uint256 forkCount) public view returns (uint256) {
@@ -45,7 +45,7 @@ The OSD coin is burnt in minting of the project decreasing the totalSupply of th
 
 Similar to minting NFT - the OSD coin worthOfProject is burned for burning NFT.
 
-> It is similar to burning fuel for reaching back to source from the destination. Although you are at same point the work was done.
+> It is similar to burning fuel for reaching back to source from the destination. Although you are at same point but the work was done.
 
 ### Sell priority
 
@@ -60,7 +60,7 @@ sellPriority * _sellPriorityConstant
 
 ### Cancel sell
 
-Cancelling sell is very common and it creates kind of bad environment in the whole ecosystem. In order to prohibit this marketplace take `0.1` OSD to cancel sell.
+Cancelling sell is very common and it creates kind of bad environment in the whole ecosystem. In order to prohibit this marketplace take `0.01` OSD to cancel sell.
 
 ### Referral reward
 
@@ -73,4 +73,4 @@ A referral reward is given to users whose referral project is successfully minte
 
 In order to interact with users - the creators can run quiz games and reward them with OSD. There can be many quiz games but currently in ROADMAP is - 
 
-1. Asking questions and right answerer will ge the reward. This help creators increase the awareness of the project.
+1. Asking questions and right answerer will get the reward. This help creators increase the awareness of the project.

@@ -4,9 +4,26 @@ sidebar_position: 1
 
 # NFT 
 
-The NFT is represented by tokenId which is hash of project URL and is created by calling the `mint` method in NFT contract. 
+NFT stands for non fungible tokens. It represents digital record of different art on blockchain. 
 
-The NFT contract stores only the information which are needed for identifying the NFT and owner. Following information are stored on chain - 
+OSNFT stands for OpenSource NFT. It represents opensource project as art.
+
+The NFT contract is deployed at 
+
+* Mainnet (Polygon) - 0xf8c8c9315c9A0434B7077AB519F0Ed1A8E0CC749
+* Testnet (Mumbai) - 0x8CE6cB2982339c11f4643fDA2d4448A424AA5847
+
+## Identification
+
+Each NFT is represented by a tokenId which is hash of project URL.
+
+```
+const tokenId = hash("github.com/ujjwalguptaofficial/mahaljs");
+```
+
+## Metadata
+
+The NFT contract stores minimum information which are needed for identifying the NFT and owner. Following information are stored on chain - 
 
 * NFT id
 * NFT ownership 
@@ -22,7 +39,7 @@ The meta data is dynamic means attributes like stars, fork etc are updated with 
 
 Users might abuse the system by minting any url as a project or by minting the same project with different url.
 
-That is why we have approving mechanism. Each NFT mint is validated by adminstrator using approver contract. It guarantess that each project has been validated and only valid projects are minted.
+That is why we have approving mechanism. Each NFT mint is validated by adminstrator using [approver contract](/components/approver). It guarantess that each project has been validated and only valid projects are minted.
 
 The NFT emits an event which can be used to know what project is being minted and attribute. This allows anyone to verify and making everything trustable.
 

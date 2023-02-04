@@ -6,6 +6,11 @@ sidebar_position: 3
 
 NFT marketplace allows you to sell, buy, create auction, bidding on the auction basically everything through which NFT can be transferred to different people.
 
+The Marketplace contract is deployed at 
+
+* Mainnet (Polygon) - 0x59A180903d4F51B74385FABFcd27F4f614b71324
+* Testnet (Mumbai) - 0x40744b3Da26f29626c58F87339C4130CBd42a27b
+
 ## sell
 
 A user who owns the NFT can place on sale for some determined amount. The sell is visible on the marketplace UI.
