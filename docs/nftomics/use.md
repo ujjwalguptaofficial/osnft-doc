@@ -70,7 +70,7 @@ The no of share should be strategically defined based on the projects. It's very
 
 Buyer buys the NFT acting as investor or supporter of the project. Here buyer provides funding source similar to VC'S and angel investors to these awesome projects for some return. 
 
-👉 As the project keeps growing - the value of NFT keeps increasing thus the price which means good return 😊 for the investors.
+👉 As the project keeps growing - the price of NFT increases which means good return 😊 for the investors.
 
 The growth of the project can be considered from different attributes like - 
 
@@ -96,11 +96,11 @@ As an investor your primary goal is to **earn** which will be possible only if t
 <br/><br/>
 👉 We recommend following things - 
 
-1. Invest in right project - Learn about the project, understand the problem it is solving and if you are convinced then invest in it. If you believe in the project then invest without further thinking. 
-2. Once you have bought the NFT then make people aware about it, increase the stars and fork of the project. Ask creators how you can help them. Maintain a communication with creators on different social network. Always be supportive.
-3. Once the project grows then feel free to sell it and invest in other projects using that money. Always keep investing. Think it like a stock market.
-4. If you are coder then be a contributor of the project and then you can help growing the project in faster. Remember even helping with documentation is a great help.
-5. Check if a project is qualified to jump to another NFT level and then talk to the creators and figure some kind of deal to take ownership in another NFT level. Remember owning partial ownership of 100 million value project is greater than owning full ownership of a 1 milliion valued company.
+1. **Invest in right project** - Learn about the project, understand the problem it is solving and if you are convinced then invest in it. If you believe in the project then invest without further thinking. 
+2. **Increase awareness** - Once you have bought the NFT then make people aware about it, increase the stars and fork of the project. Ask creators how you can help them. Maintain a communication with creators on different social network. Always be supportive.
+3. **Be an active seller and buyer** - Once the project grows then feel free to sell it and invest in other projects using that money. Always keep investing. Think it like a stock market.
+4. **Help project** - If you are coder then be a contributor of the project and then you can help growing the project in faster. Remember even helping with documentation is a great help.
+5. **Jump to another NFT level** - Check if a project is qualified to jump to another NFT level and then talk to the creators and figure some kind of deal to take ownership in another NFT level. Remember owning partial ownership of 100 million value project is greater than owning full ownership of a 1 milliion valued company.
 
 
 
