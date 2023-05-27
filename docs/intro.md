@@ -88,6 +88,8 @@ So now Bob NFT value is 285$ and he has gain of 185$. Amazing right ?
 
 On the other hand Alice who is creator of the project got 285$ as NFT value and 105 as royalty value. 
 
+---
+
 👉 We want to motivate existing opensource creators and encourage others to opensource.
 
 More details in [NFTOMICS section](nftomics/work)
